@@ -32,8 +32,8 @@
 <div>
  <p align="left">
   <a href="https://github.com/crisl4ine">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=crisl4ine&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crisl4ine&layout=compact&langs_count=7&theme=dracula"/> </p>
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=crisl4ine&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crisl4ine&layout=compact&langs_count=7&theme=dracula"/> </p>
    
   
 ![Crisl4ine ' Activity Graph](https://activity-graph.herokuapp.com/graph?username=crisl4ine&custom_title=Crisl4ine%20Contribution%20Graph&theme=dracula&bg_color=282828&hide_border=true&line=FF1493&point=FF1493)
