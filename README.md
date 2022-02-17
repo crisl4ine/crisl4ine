@@ -4,8 +4,8 @@
 
 
 
-- 🔭 I’m currently working on Administrative Assistant.
-- 📚 I’m currently learning Development front-end.
+ 🔭 I’m currently working on Administrative Assistant.
+ 📚 I’m currently learning Development front-end.
 
 
 ## **My Social Networks**
