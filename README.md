@@ -1,10 +1,11 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
-
 ### Hello, I'm Chris 🙋🏻
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
 
 
  🔭 I’m currently working on Administrative Assistant.
+ <br>
  📚 I’m currently learning Development front-end.
 
 
@@ -15,7 +16,6 @@
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white">
   </a> 
  
-<br>
 
 ## **Linguagens e Ferramentas** 
 
