@@ -1,9 +1,9 @@
-### Hello, I'm Chris
+### Hello, I'm Chris 🙋🏻
 
 
 
-- 🔭 I’m currently working on administrative assistant.
-- 🌱 I’m currently learning development front-end.
+- 🔭 I’m currently working on Administrative Assistant.
+- 📚 I’m currently learning Development front-end.
 
 <div align="center">
   <a href="https://github.com/crisl4ine">
