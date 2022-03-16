@@ -43,9 +43,13 @@
 
 ##
 
+ ### Visitantes no Perfil
 <div>
-
-
+  
+ <img align="relative" src="https://profile-counter.glitch.me/crisl4ine/count.svg" > 
+ </div>
+ <br>
+ <div>
   
   ![Snake animation](https://github.com/crisl4ine/crisl4ine/blob/output/github-contribution-grid-snake.svg)
   
