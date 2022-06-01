@@ -17,7 +17,7 @@
 </a>
  
 
-## **Linguagens e Ferramentas** 
+## **Languages and Tools** 
 
 <div style="display: inline_block"><br>
   <img align="center"  height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -29,7 +29,7 @@
 
   <br>
   
-  ## **GitHub Estatísticas**
+  ## **GitHub Statistic**
   
 <div>
  <p align="left">
@@ -43,7 +43,7 @@
 
 ##
 
- ### Visitantes no Perfil
+ ### Profile visitors
 <div>
   
  <img align="relative" src="https://profile-counter.glitch.me/crisl4ine/count.svg" > 
