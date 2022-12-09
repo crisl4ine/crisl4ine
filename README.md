@@ -6,7 +6,7 @@
 
  🔭 I’m currently working on Administrative Assistant.
  <br>
- 📚 I’m currently learning Development front-end.
+ 📚 I’m currently learning Software Engineering.
 
 
 ## **My Social Networks**
